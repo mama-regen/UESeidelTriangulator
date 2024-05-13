@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "SeidelTriangulator",
+	"Description": "Implementation of Seidel's triangulation algorithm",
+	"Category": "Other",
+	"CreatedBy": "Gary McKnight",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "SeidelTriangulator",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
